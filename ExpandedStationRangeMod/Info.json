@@ -1,0 +1,9 @@
+{
+    "Id": "ExpandedStationRangeMod",
+    "DisplayName": "Expanded Station Range",
+    "Author": "fauxnik",
+    "Version": "1.0.0",
+    "AssemblyName": "ExpandedStationRangeMod.dll",
+    "EntryMethod": "ExpandedStationRangeMod.Main.Load",
+    "Repository": "https://raw.githubusercontent.com/fauxnik/DerailValleyExpandedStationRangeMod/master/Repository.json"
+}
