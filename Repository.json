@@ -1,9 +1,14 @@
 {
-    "Releases": [
-        {
-            "Id": "ExpandedStationRangeMod",
-            "Version": "1.0.0",
-            "DownloadUrl": "https://github.com/fauxnik/DerailValleyExpandedStationRangeMod/releases/download/v1.0.0/ExpandedStationRangeMod.zip"
-        }
-    ]
+	"Releases": [
+		{
+			"Id": "ExpandedStationRangeMod",
+			"Version": "2.0.0",
+			"DownloadUrl": "https://github.com/fauxnik/dv-expanded-station-range/releases/download/v2.0.0/ExpandedStationRange_v2.0.0.zip"
+		},
+		{
+			"Id": "ExpandedStationRangeMod",
+			"Version": "1.0.0",
+			"DownloadUrl": "https://github.com/fauxnik/dv-expanded-station-range/releases/download/v1.0.0/ExpandedStationRangeMod.zip"
+		}
+	]
 }

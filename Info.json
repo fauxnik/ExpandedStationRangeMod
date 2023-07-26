@@ -1,8 +1,9 @@
 {
-    "Id": "ExpandedStationRangeMod",
-    "DisplayName": "Expanded Station Range",
-    "Author": "fauxnik",
-    "Version": "1.0.0",
-    "AssemblyName": "ExpandedStationRangeMod.dll",
-    "EntryMethod": "ExpandedStationRangeMod.Main.Load"
+	"Id": "ExpandedStationRangeMod",
+	"Version": "2.0.0",
+	"DisplayName": "Expanded Station Range",
+	"Author": "fauxnik",
+	"AssemblyName": "ExpandedStationRange.dll",
+	"EntryMethod": "ExpandedStationRange.Main.Load",
+	"ManagerVersion": "0.27.3"
 }
