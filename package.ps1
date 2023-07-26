@@ -23,6 +23,6 @@ Copy-Item -Force -Path $FilesToInclude -Destination "$ZipOutDir"
 
 if (!$NoArchive)
 {
-	$FILE_NAME = "$DistDir/$modName_v$modVersion.zip"
-	Compress-Archive -Update -CompressionLevel Fastest -Path "$ZipOutDir" -DestinationPath "$FILE_NAME"
+	$FILE_NAME = "$DistDir/${modName}_v$modVersion.zip"
+	Compress-Archive -Update -CompressionLevel Fastest -Path "$ZipOutDir/*" -DestinationPath "$FILE_NAME"
 }
